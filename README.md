@@ -1,0 +1,2 @@
+# LAMZO
+The Lamzin game
